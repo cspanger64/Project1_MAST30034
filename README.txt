@@ -1,6 +1,6 @@
 This project investigates the demand between HighVolume ForHire Vehicles (HVFHVs, e.g., Uber, Lyft) and traditional Yellow Taxis in New York City, the analysis quantifies how different factors—including time of day, weather, and pricing—affect the relative usage of each service.
 
-The specifics of the process can be found in the report titled Project1_1356157
+The specifics of the process can be found in the report titled MAST30034_Project_1_1356157.pdf
 
 Notebooks Summary downloading_data.ipynb Outlines the acquisition of trip records and weather data. Includes code for getting and storing the data (parquets)
 
